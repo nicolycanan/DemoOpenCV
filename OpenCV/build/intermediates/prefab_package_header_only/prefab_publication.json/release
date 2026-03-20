@@ -1,0 +1,17 @@
+{
+  "installationFolder": "D:\\projetos-nicoly\\projetos-android\\testes eu\\DemoOpenCV\\OpenCV\\build\\intermediates\\prefab_package\\release\\prefab",
+  "gradlePath": ":OpenCV",
+  "packageInfo": {
+    "packageName": "OpenCV",
+    "packageSchemaVersion": 2,
+    "packageDependencies": [],
+    "modules": [
+      {
+        "moduleName": "opencv_jni_shared",
+        "moduleHeaders": "D:\\projetos-nicoly\\projetos-android\\testes eu\\DemoOpenCV\\OpenCV\\native\\jni\\include",
+        "moduleExportLibraries": [],
+        "abis": []
+      }
+    ]
+  }
+}

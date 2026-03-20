@@ -1,0 +1,22 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <org.opencv.android.JavaCameraView
+        android:id="@+id/fd_activity_surface_view"
+        android:layout_width="match_parent"
+        android:layout_height="600dp" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/textViewStatus"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/verde"
+        android:text="TextView"
+        android:textAlignment="center"
+        android:gravity="center"
+        android:textSize="20sp" />
+
+</LinearLayout>

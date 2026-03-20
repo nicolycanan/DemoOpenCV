@@ -1,0 +1,8 @@
+org.opencv.OpenCV-pngs-0 D:\projetos-nicoly\projetos-android\testes eu\DemoOpenCV\OpenCV\build\generated\res\pngs\debug
+org.opencv.OpenCV-updated_navigation_xml-1 D:\projetos-nicoly\projetos-android\testes eu\DemoOpenCV\OpenCV\build\generated\updated_navigation_xml\debug
+org.opencv.OpenCV-mergeDebugResources-2 D:\projetos-nicoly\projetos-android\testes eu\DemoOpenCV\OpenCV\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+org.opencv.OpenCV-mergeDebugResources-3 D:\projetos-nicoly\projetos-android\testes eu\DemoOpenCV\OpenCV\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+org.opencv.OpenCV-debug-4 D:\projetos-nicoly\projetos-android\testes eu\DemoOpenCV\OpenCV\build\intermediates\merged_res\debug\mergeDebugResources
+org.opencv.OpenCV-debug-5 D:\projetos-nicoly\projetos-android\testes eu\DemoOpenCV\OpenCV\build\intermediates\packaged_res\debug\packageDebugResources
+org.opencv.OpenCV-java-6 D:\projetos-nicoly\projetos-android\testes eu\DemoOpenCV\OpenCV\java\res
+org.opencv.OpenCV-debug-7 D:\projetos-nicoly\projetos-android\testes eu\DemoOpenCV\OpenCV\src\debug\res

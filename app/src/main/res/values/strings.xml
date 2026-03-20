@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">DemoOpenCV</string>
+    <string name="name_should_not_be_empty">Insira um nome para o cadastro</string>
+    <string name="id_should_not_be_empty">Insira um ID.</string>
+    <string name="duplicated_name">Nome duplicado!</string>
+    <string name="duplicated_id">ID duplicado!</string>
+
+    <string name="multiple_face_detected">Múltiplas faces detectada!</string>
+    <string name="no_face_detected">Face não detectada!</string>
+    <string name="appid_error">Erro de AppID!</string>
+    <string name="invalid_license">Licença Inválida!</string>
+    <string name="license_expired">Licença Expirada!</string>
+    <string name="no_activated">Não Ativado!</string>
+    <string name="init_error">Erro na Inicialização!</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancela</string>
+    <string name="name_userlist">Registro de cadastro</string>
+    <string name="register_successed">Registrado com sucesso!</string>
+    <string name="delete_user">Deletar Colaborador</string>
+    <string name="delete">Deletar</string>
+    <string name="delete_all">Deletar Todos</string>
+    <string name="select_picture">Selecione uma Foto</string>
+    <string name="liveness_check_failed">Falhou ao detectar Liveness!</string>
+    <string name="users">Colaboradores</string>
+    <string name="verify_succeed">Verificação bem sucedida!: </string>
+    <string name="verify_timeout">Timeout na Verificação!</string>
+    <string name="verify_failed">Falha na Verificação!</string>
+    <string name="liveness_failed">Falha ao verificar o Liveness!</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="welcome_to">Welcome to MiniAiLive</string>
+    <string name="get_started_with">Get started with facial recognition</string>
+    <string name="services">Our Services</string>
+    <string name="learn_more">Learn more</string>
+    <string name="choose">Choose your desired function</string>
+    <string name="enroll">Enroll Faces</string>
+    <string name="identify">Identify Faces</string>
+    <string name="liveness">Liveness</string>
+    <string name="liveness_test">Liveness Test</string>
+    <string name="about">About MiniAiLive</string>
+
+    <string name="service_details">
+            <b>MiniAiLive</b> is a provider of Touchless Biometrics Authentication, ID verification solutions. We offer strong security solutions with cutting-edge technologies for facial recognition, liveness detection, and ID document recognition. We also ensure that these solutions seamlessly integrate with our clients’ existing systems.
+
+            \n\n
+
+            <b>Try Our SDKs On Your Server or Application For Free</b>
+
+            \n\n
+
+            At <b>MiniAi</b>, we understand that our clients want to thoroughly test and evaluate our biometric solutions before fully integrating them into their systems.
+            That’s why we offer a free trial period, as well as integration services and support for proof of concepts (PoCs) at no cost.
+            We want to ensure that our clients are completely satisfied with our solutions and confident in their decision to implement them.
+    </string>
+    <string name="button_start">Get Started</string>
+
+    <string name="about_contact_us">Contact us</string>
+    <string name="about_instagram">Follow us on Instagram</string>
+    <string name="about_facebook">Like us on Facebook</string>
+    <string name="about_play_store">Rate us on the Play Store</string>
+    <string name="about_youtube">Watch us on Youtube</string>
+    <string name="about_twitter">Follow us on Twitter</string>
+    <string name="about_github">Fork us on GitHub</string>
+    <string name="about_website">Visit our website</string>
+    <string name="copy_right" translatable="false">Copyrights © %1$d</string>
+</resources>
